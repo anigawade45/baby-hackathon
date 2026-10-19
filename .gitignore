@@ -1,0 +1,7 @@
+_download/
+node_modules/
+.netlify/
+.data/
+*.log
+.claude/
+SUBMISSION.md
